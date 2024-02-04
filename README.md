@@ -1,3 +1,6 @@
+![Global CO2 Emissions](https://github.com/barnascript/global_co2_emissions/assets/142545558/dae7892e-42f9-45dc-9df5-aa12f4e184d7)
+
+
 # Global CO2 Emissions from Maven Analytics
 
 A projeect in Tableau, I visualised Global CO2 Emissions from Maven Analytics
