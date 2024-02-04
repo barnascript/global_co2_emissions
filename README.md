@@ -3,7 +3,7 @@
 
 # Global CO2 Emissions from Maven Analytics
 
-A projeect in Tableau, I visualised Global CO2 Emissions from Maven Analytics
+An Interactive project in Tableau, I visualised Global CO2 Emissions from Maven Analytics
 
 ### Below were my findings.
 
